@@ -1,0 +1,28 @@
+name: Andrew Manley Photography
+favicon: null
+layout_spectrum: 0.6001605270430446
+typography_spectrum: 0.892909676535055
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.10271078953519464
+  lightness: 0.012325100600719452
+  saturation: 0.03949908004142344
+  rhythmicContrast: 0.5995744047686458
+purpose: []
