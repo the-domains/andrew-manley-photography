@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Andrew Manley Photography]]></title>
         <description><![CDATA[Andrew Manley Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andrew-manley-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 00:41:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 00:41:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andrew-manley-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4711ffcd-6519-4f1b-89b2-d944d31dcf2d.jpg">]]></description>
+            <link>https://thegrid.ai/andrew-manley-photography/be3a463a-0aa1-47dc-92f8-7e1a5b099d5a/index.html</link>
+            <guid isPermaLink="false">be3a463a-0aa1-47dc-92f8-7e1a5b099d5a</guid>
+            <pubDate>Fri, 02 Sep 2016 00:41:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/229402ae-3505-44e0-9ccc-538283a53733.jpg">]]></description>
-            <link>undefinedafc8df86-4745-43f8-a5b7-8a9bec7bf50f/index.html</link>
+            <link>https://thegrid.ai/andrew-manley-photography/afc8df86-4745-43f8-a5b7-8a9bec7bf50f/index.html</link>
             <guid isPermaLink="false">afc8df86-4745-43f8-a5b7-8a9bec7bf50f</guid>
             <pubDate>Fri, 02 Sep 2016 00:41:38 GMT</pubDate>
         </item>
